@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PSE Kominfo Monitor</string>
+    <string name="title_domestik">PSE Domestik</string>
+    <string name="title_asing">PSE Asing</string>
+</resources>

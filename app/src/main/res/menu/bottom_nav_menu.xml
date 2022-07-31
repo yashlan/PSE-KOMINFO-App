@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_domestik"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:onClick="onClickMenuDomestik"
+        android:title="@string/title_domestik" />
+
+    <item
+        android:id="@+id/item_asing"
+        android:onClick="onClickItemAsing"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_asing" />
+
+</menu>
